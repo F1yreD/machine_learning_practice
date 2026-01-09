@@ -1,2 +1,4 @@
 # 26py
-python practice
+python practice 
+
+not bad
