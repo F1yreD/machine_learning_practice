@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月24日14时30分49秒
-# xxx@qq.com
 my_list = [1, 2, 3]
 print(my_list)
 print(type(my_list))

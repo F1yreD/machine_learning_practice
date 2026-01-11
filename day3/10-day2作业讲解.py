@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月25日17时19分20秒
-# xxx@qq.com
 
 def homework4():
     print(sum([i for i in range(1, 100) if i % 2 == 1]))

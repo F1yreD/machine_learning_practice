@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月24日15时26分49秒
-# xxx@qq.com
 
 def use_print1():
     print('hello', end='')  # 输出不想有换行

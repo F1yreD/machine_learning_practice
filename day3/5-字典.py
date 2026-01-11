@@ -1,6 +1,4 @@
-# 作者: 王道 龙哥
-# 2025年12月25日14时57分48秒
-# xxx@qq.com
+
 
 def dict_add_modify_del():
     student = {'name': 'bob', 'age': 20, 'height': 98.5}

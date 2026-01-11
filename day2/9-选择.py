@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月24日16时43分56秒
-# xxx@qq.com
 
 def use_if():
     score = int(input('请输入成绩：'))

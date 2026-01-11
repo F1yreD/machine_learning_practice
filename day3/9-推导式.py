@@ -1,6 +1,3 @@
-# 作者: 王道 龙哥
-# 2025年12月25日16时59分27秒
-# xxx@qq.com
 
 # 生成式
 num_list = [i ** 2 for i in range(10) if i % 2 == 0]
