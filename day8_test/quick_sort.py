@@ -15,16 +15,20 @@ class RandArr:
 
 
 def quick_sort(arr, l, r):
-    if l >= r: return
+    if l >= r:
+        return
     i, j, x = l - 1, r + 1, arr[l + r >> 1]
     while i < j:
         while True:
             i += 1
-            if arr[i] >= x: break
+            if arr[i] >= x:
+                break
         while True:
             j -= 1
-            if arr[j] <= x: break
-        if i < j: arr[i], arr[j] = arr[j], arr[i]
+            if arr[j] <= x:
+                break
+        if i < j:
+            arr[i], arr[j] = arr[j], arr[i]
     quick_sort(arr, l, j), quick_sort(arr, j + 1, r)
 
 

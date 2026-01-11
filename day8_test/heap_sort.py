@@ -14,6 +14,7 @@ class RandArr:
             self.arr.append(random.randint(0, 99))
 
 
+
 def down(u):
     t = u
     if u * 2 + 1 < q.cnt and q.arr[u * 2 + 1] > q.arr[t]:
