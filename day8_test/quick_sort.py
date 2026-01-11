@@ -3,7 +3,7 @@
 import random
 
 
-class rand_arr:
+class RandArr:
     def __init__(self, length):
         self.length = length
         self.arr = []
@@ -16,18 +16,20 @@ class rand_arr:
 
 def quick_sort(arr, l, r):
     if l >= r: return
-    i, j, x = l , r, arr[l + r >> 1]
+    i, j, x = l - 1, r + 1, arr[l + r >> 1]
     while i < j:
-        while arr[i] < x:
+        while True:
             i += 1
-        while arr[j] > x:
+            if arr[i] >= x: break
+        while True:
             j -= 1
+            if arr[j] <= x: break
         if i < j: arr[i], arr[j] = arr[j], arr[i]
-    quick_sort(arr, l, j), quick_sort(arr, j+1, r)
+    quick_sort(arr, l, j), quick_sort(arr, j + 1, r)
 
 
 if __name__ == '__main__':
-    q = rand_arr(10)
+    q = RandArr(10)
     print(q.arr)
     quick_sort(q.arr, 0, len(q.arr) - 1)
     print(q.arr)
