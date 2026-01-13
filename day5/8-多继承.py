@@ -1,4 +1,4 @@
-# 作者: 王道 龙哥
+# 作者: F1yreD
 # 2025年12月27日10时56分53秒
 # xxx@qq.com
 class Flyable:

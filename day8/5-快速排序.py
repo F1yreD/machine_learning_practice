@@ -1,4 +1,4 @@
-# 作者: 王道 龙哥
+# 作者: F1yreD
 # 2025年12月31日14时48分12秒
 # xxx@qq.com
 import random

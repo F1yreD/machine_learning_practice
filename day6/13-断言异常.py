@@ -1,4 +1,4 @@
-# 作者: 王道 龙哥
+# 作者: F1yreD
 # 2025年12月29日14时27分46秒
 # xxx@qq.com
 def calculate_average(numbers):

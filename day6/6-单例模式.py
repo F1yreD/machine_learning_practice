@@ -1,4 +1,4 @@
-# 作者: 王道 龙哥
+# 作者: F1yreD
 # 2025年12月29日10时30分32秒
 # xxx@qq.com
 class MusicPlayer(object):
