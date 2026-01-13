@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月26日10时46分33秒
-# xxx@qq.com
+
 # 定义加法函数
 def get_sum(a, b):
     return a + b

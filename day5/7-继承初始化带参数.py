@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日10时54分12秒
-# xxx@qq.com
+
 class Animal:
     def __init__(self, name):
         self.name = name

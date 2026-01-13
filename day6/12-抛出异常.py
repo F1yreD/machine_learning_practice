@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日14时20分10秒
-# xxx@qq.com
+
 
 def get_password(a):
     password = input("请输入密码:")

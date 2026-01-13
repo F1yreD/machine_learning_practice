@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日10时22分11秒
-# xxx@qq.com
+
 class Person:
     # 封装属性（数据）
     def __init__(self, name, age):

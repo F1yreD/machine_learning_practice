@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日11时06分08秒
-# xxx@qq.com
+
 class Person:
     def __init__(self, name, age):
         self.name = name

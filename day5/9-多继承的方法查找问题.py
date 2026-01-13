@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日11时02分44秒
-# xxx@qq.com
+
 class A:  # 祖父类
     def say(self):
         print("A的say方法")

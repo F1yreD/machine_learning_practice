@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月26日11时09分25秒
-# xxx@qq.com
+
 # 需求：求任意个整数的和
 def sum_total(*args):
     """

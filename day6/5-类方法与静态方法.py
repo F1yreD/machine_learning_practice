@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日09时48分31秒
-# xxx@qq.com
+
 class Tool:
     __count = 0
 

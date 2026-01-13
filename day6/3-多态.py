@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日09时28分09秒
-# xxx@qq.com
+
 class Animal:
     def make_sound(self):
         # 父类方法：定义接口

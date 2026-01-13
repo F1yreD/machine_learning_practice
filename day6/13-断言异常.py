@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日14时27分46秒
-# xxx@qq.com
+
 def calculate_average(numbers):
     assert len(numbers) > 0, 'numbers 列表不能为空'
     return sum(numbers) / len(numbers)

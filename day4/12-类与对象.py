@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月26日16时13分04秒
-# xxx@qq.com
+
 
 class Car:
     def __init__(self, name):

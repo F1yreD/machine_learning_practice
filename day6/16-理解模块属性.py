@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日15时00分18秒
-# xxx@qq.com
+
 
 import calc
 import random

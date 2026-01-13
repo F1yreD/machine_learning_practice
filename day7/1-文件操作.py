@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月30日09时34分40秒
-# xxx@qq.com
+
 
 def open_r():
     file = open('file.txt', 'r', encoding='utf8')

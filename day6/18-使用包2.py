@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日16时03分20秒
-# xxx@qq.com
+
 
 #如果没有写all，是不可以用*的
 from my_package import *

@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日10时27分14秒
-# xxx@qq.com
+
 class BankAccount:
     def __init__(self, balance):
         self.__balance = balance  # 私有属性（余额）,只可以在类内部访问

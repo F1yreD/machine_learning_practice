@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月30日10时33分09秒
-# xxx@qq.com
+
 
 def while_read():
     file = open('file.txt', 'r', encoding='utf8')

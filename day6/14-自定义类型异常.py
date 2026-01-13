@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日14时33分03秒
-# xxx@qq.com
+
 class UsernameError(Exception):
     def __init__(self):
         pass  # 空实现，使用默认的异常行为

@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月26日15时24分14秒
-# xxx@qq.com
+
 import sys
 
 sys.setrecursionlimit(1000000)

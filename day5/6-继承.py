@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日10时49分55秒
-# xxx@qq.com
+
 class Father:
     def __init__(self):
         self.gender = 'man'

@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月26日16时45分23秒
-# xxx@qq.com
+
 
 class StudentInfo:
     def __init__(self, name, age, height=180, weight=150):

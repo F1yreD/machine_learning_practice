@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日14时08分26秒
-# xxx@qq.com
+
 
 def demo1():
     num = int(input('请输入一个整数'))

@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日10时51分18秒
-# xxx@qq.com
+
 def divide(a):
     try:
         b = int(input('请输入一个数'))

@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月31日10时50分52秒
-# xxx@qq.com
+
 import re
 pattern = re.compile(r"1[34578]\d{9}")
 

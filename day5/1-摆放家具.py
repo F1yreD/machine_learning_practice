@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月27日09时31分02秒
-# xxx@qq.com
+
 class HouseItem:
     def __init__(self, name, area):
         self.name = name

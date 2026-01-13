@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月30日10时46分11秒
-# xxx@qq.com
+
 def use_with():
     with open('file.txt', 'r', encoding='utf8') as f:
         txt = f.read()

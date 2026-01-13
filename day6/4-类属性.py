@@ -1,6 +1,6 @@
 # 作者: F1yreD
 # 2025年12月29日09时40分45秒
-# xxx@qq.com
+
 class Student:
     # 类属性：定义在__init__外，所有学生共享
     count = 0
