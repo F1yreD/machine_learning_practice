@@ -1,4 +1,7 @@
 # 一切皆对象
+from ast import AsyncFunctionDef
+
+
 name = 'a'
 age = 38
 height = 170.5
