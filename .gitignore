@@ -1,4 +1,6 @@
-data/
 *.csv
 *.zip
 *.log
+*.pkz
+day12/data/
+*.pkz
