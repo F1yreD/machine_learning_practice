@@ -2,5 +2,5 @@
 *.zip
 *.log
 *.pkz
-day14/titanic.svg
+*.svg
 day14/output.png
