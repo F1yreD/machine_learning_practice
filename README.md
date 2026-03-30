@@ -1,6 +1,6 @@
-# 26py
-![Downloads](https://img.shields.io/github/downloads/F1yreD/26py/total)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=F1yreD.26py)
+# machine_learning_practice
+![Downloads](https://img.shields.io/github/downloads/F1yreD/machine_learning_practice/total)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=F1yreD.machine_learning_practice)
 ### python practice 
 <img src="./thumb.jpeg" width="150"/>
 
