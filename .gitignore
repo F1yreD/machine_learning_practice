@@ -4,9 +4,12 @@
 *.pkz
 *.svg
 *.txt
-day14/output.png
+*.npy
+*.png
 data/
 __pycache__/
 checkpoints/
 logs/
 archive/
+day26/imdb_bpe_vocab
+day26/imdb_bpe_code
