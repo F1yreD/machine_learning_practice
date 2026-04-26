@@ -6,6 +6,7 @@
 *.txt
 *.npy
 *.png
+.idea/
 data/
 __pycache__/
 checkpoints/
